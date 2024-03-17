@@ -1,4 +1,4 @@
-const appointment = require("../models/appointment.model");
+const appointment = require("../models/appointment.model")
 
 // getAllAppointment 
 const getAllAppointment = async (req, res) => {
